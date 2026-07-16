@@ -1,0 +1,17 @@
+{
+    "name": "Две Дилеммы",
+    "short_name": "Дилеммы",
+    "description": "Голосуй за дилеммы и обсуждай с друзьями! Создано Nebo",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#121212",
+    "theme_color": "#121212",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%23007aff'/><text y='.7em' font-size='70' text-anchor='middle' x='50'>🚀</text></svg>",
+            "sizes": "100x100",
+            "type": "image/svg+xml"
+        }
+    ]
+}
